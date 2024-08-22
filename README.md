@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+## Конвертер валют
+![1660250017350](https://user-images.githubusercontent.com/12086860/184237245-dd26fc7e-1b84-4490-b9cf-3d40a4ded550.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**👀 Useful Concepts**
+1. Working with the useEffect Hook
+2. Fetching a Currency Exchange Rate List from a Separate API
+3. Converting One Currency to Another and Vice Versa (Without Backend)
 
 ## Available Scripts
 
